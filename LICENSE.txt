@@ -1,0 +1,30 @@
+
+---
+
+# ✅ **LICENSE.txt (Private, Custom License)**
+*(Restricts copying & distribution while allowing portfolio use)*
+
+---
+
+```text
+Copyright (c) 2025 Mohammed Atif
+
+All rights reserved.
+
+This software and its source code are the property of Mohammed Atif.
+No part of this project may be copied, modified, redistributed, or used
+for commercial purposes without explicit written permission from the owner.
+
+You are allowed to:
+- View the code for learning or portfolio review
+- Run the project locally for testing
+- Use the APK for personal use
+
+You are NOT allowed to:
+- Re-upload this code in any public or private repository
+- Claim this work as your own
+- Sell, redistribute, or modify the codebase
+- Use this project as part of another commercial product
+
+For permissions, contact:
+**atifvirani (GitHub)**.
