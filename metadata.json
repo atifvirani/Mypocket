@@ -1,0 +1,8 @@
+{
+  "name": "MyPocket Expense Tracker",
+  "description": "A functional MVP of an expense tracker application using Supabase for authentication and database management. Users can sign up, log in, and perform CRUD operations on their personal expenses.",
+  "requestFramePermissions": [
+    "microphone",
+    "camera"
+  ]
+}
